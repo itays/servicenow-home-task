@@ -14,3 +14,9 @@ todos.json
 
 # typescript
 *.tsbuildinfo
+
+# playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
